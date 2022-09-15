@@ -1,0 +1,31 @@
+.card{
+    border: 2px solid darkslateblue;
+    display: flex;
+    width: 600px;
+    margin: 0 auto;
+    justify-content: space-around;
+    padding: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightcyan;
+    border-bottom: 4px solid darkslateblue;
+}
+
+
+.avatar{
+    width: 200px;
+    padding: 10px;
+}   
+
+.info p{
+    text-align: center;
+}
+
+.info h1{
+    color: midnightblue;
+}
+
+.info ul{
+    margin-left: -27px;
+}
+
+
